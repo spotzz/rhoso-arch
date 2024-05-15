@@ -5,7 +5,7 @@
 
 This is the first course for IT professionals who are already experienced OpenStack Operators but are new to administration of Red Hat OpenStack Services on OpenShift. It requires no previous knowledge of Red Hat OpenShift, Kubernetes, and containers, but it requires familiarity with managing application workloads running as virtual machines (VM) on OpenStack, and managing associated resources such as storage volumes and tenant or provider networks.
 
-This course helps both experienced OpenStack Administrators and OpenStack Operators who are growing into OpenStack Administrators understanding the Red Hat OpenStack Services on OpenShift product and how managing it may be different than managing other incarnations of Red Hat OpenStack Platform.
+This course helps both experienced OpenStack Administrators and OpenStack Operators who are growing into OpenStack Administrators understand the Red Hat OpenStack Services on OpenShift product and how managing it may be different than managing other incarnations of Red Hat OpenStack Platform.
 
 == Course Objective
 
